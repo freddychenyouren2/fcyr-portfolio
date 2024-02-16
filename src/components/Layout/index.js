@@ -5,6 +5,7 @@ import { Outlet } from 'react-router-dom';
 //Functional components
 
 const Layout = () => {
+
     return (
         <div className='App'>
           <Sidebar/>
