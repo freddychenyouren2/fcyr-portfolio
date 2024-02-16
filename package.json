@@ -1,6 +1,7 @@
 {
   "name": "fcyr-portfolio",
   "version": "0.1.0",
+  "homepage": "https://freddychenyouren2.github.io/fcyr-portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.1.0",
@@ -45,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }

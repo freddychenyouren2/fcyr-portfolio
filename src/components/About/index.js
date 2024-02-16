@@ -8,7 +8,7 @@ import Loader from 'react-loaders';
 const About = () => {
 
     const [letterClass, setLetterClass] = useState('text-animate');
-    const aboutMe = "About Me"
+    const aboutMe = "About FCYR"
     const aboutMeArray = Array.from({length: aboutMe.length}, (_, i) => aboutMe[i])
 
     useEffect(() => {
