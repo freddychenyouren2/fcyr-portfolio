@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fcyr-portfolio/static/css/main.57ebd909.css",
+    "main.js": "/fcyr-portfolio/static/js/main.3d189017.js",
+    "static/js/453.c33b4530.chunk.js": "/fcyr-portfolio/static/js/453.c33b4530.chunk.js",
+    "static/media/F-orange-fire-logo-transparent.png": "/fcyr-portfolio/static/media/F-orange-fire-logo-transparent.cf24b260beddffb719b8.png",
+    "static/media/F-orange-fire-logo.jpg": "/fcyr-portfolio/static/media/F-orange-fire-logo.c7df2fdba8b230b72bc2.jpg",
+    "static/media/F-logo-white-sub-red-background.png": "/fcyr-portfolio/static/media/F-logo-white-sub-red-background.5c7e5ff801b6fe48bb86.png",
+    "static/media/helvetica-neu.ttf": "/fcyr-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/fcyr-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/fcyr-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/fcyr-portfolio/index.html",
+    "main.57ebd909.css.map": "/fcyr-portfolio/static/css/main.57ebd909.css.map",
+    "main.3d189017.js.map": "/fcyr-portfolio/static/js/main.3d189017.js.map",
+    "453.c33b4530.chunk.js.map": "/fcyr-portfolio/static/js/453.c33b4530.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57ebd909.css",
+    "static/js/main.3d189017.js"
+  ]
+}
