@@ -1,6 +1,6 @@
 .nav-bar {
     background: #430000;
-    width: 120px;
+    width: 80px;
     height: 100%;
     position: absolute;
     top: 0;
@@ -18,7 +18,7 @@
             height: auto;
 
             &.sub-logo {
-                width: 100px;
+                width: 70px;
             }
         }
     }
@@ -59,7 +59,7 @@
 
             &:after {
                 content: '';
-                font-size: 18px;
+                font-size: 12px;
                 letter-spacing: 2px;
                 position: absolute;
                 bottom: 0;

@@ -1,0 +1,88 @@
+.home-page {
+
+    .text-zone {
+        position: absolute;
+        left: 15%;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 40%;
+        max-height: 90%;
+    }
+    h1 {
+        color: #fff;
+        font-size: 53px;
+        margin: 0;
+        font-family: 'Coolvetica';
+        font-weight: 300;
+
+        .cursive-text {
+            font-family: 'Lucida Calligraphy';
+            font-size: 80%;
+            font-weight: bold;
+            animation: slideInRight 1s ease-in-out;
+            animation-delay: 1s;
+        }
+
+        &::before {
+            content: '<h1>';
+            font-family: 'La Belle Aurore';
+            color: #ff9500;
+            font-size: 18px;
+            position: absolute;
+            margin-top: -40px;
+            left: 15px;
+            opacity: 0.5;
+        }
+
+        &::after {
+            content: '</h1>';
+            font-family: 'La Belle Aurore';
+            color: #ff9500;
+            font-size: 18px;
+            position: absolute;
+            margin-top: -40px;
+            margin-left: 20px;
+            animation: fadeIn 1.7s backwards;
+            opacity: 0.5;
+        }
+        img {
+            width: 500px;
+            margin-left: 20px;
+            opacity: 1;
+            height: auto;
+            animation: slideInRight 1s ease-in both;
+            animation-delay: 1.5s;
+        }
+    }
+
+    h2 {
+        color: #dad7d8;
+        margin-top: 20px;
+        font-weight: 400;
+        font-size: 15px;
+        font-family: sans-serif;
+        letter-spacing: 3px;
+        animation: fadeIn 1s 1.8s backwards;
+    }
+
+    .flat-button {
+        color: #ff9500;
+        font-size: 13px;
+        font-weight: bold;
+        letter-spacing: 4px;
+        font-family: sans-serif;
+        text-decoration: none;
+        padding: 10px 18px;
+        border: 1px solid #ff9500;
+        margin-top: 25px;
+        float: left;
+        animation: fadeIn 1s 1.8s backwards;
+        white-space: 'nowrap';
+
+        &:hover {
+            background: #ff9500;
+            color: #333
+        }
+        
+    }
+}
