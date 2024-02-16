@@ -8,6 +8,7 @@
     bottom: 0;
     left: auto;
     margin: auto;
+    transition: width 1s ease-in-out;
 
     .fire-logo {
         position: absolute;
@@ -18,7 +19,7 @@
         margin: auto;
         width: 100%;
         opacity: 0;
-        z-index: 1;
+        z-index: auto;
         animation: fadeIn 2s 2s ease-in-out forwards;
       }
 }

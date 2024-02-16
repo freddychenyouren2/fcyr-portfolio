@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import AnimatedLetters from '../AnimatedLetters';
 import Logo from './Logo';
 import Loader from 'react-loaders';
+import Resume from '../../assets/documents/Freddy_Chen_You_Ren_Resume_Feb_2024_v2.pdf';
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate');
@@ -12,12 +13,12 @@ const Home = () => {
     const nameArray = Array.from({length: name.length}, (_, i) => name[i])
     // const nameArray2 = ['F', 'r', 'e', 'd', 'd', 'y', ' ', 'C', 'h', 'e', 'n', ' ', 'Y', 'o', 'u', ' ', 'R', 'e', 'n']
 
-    const description = "Year 2 Computer Science undergraduate at National University of Singapore."
-    const descriptionArray = Array.from({length: description.length}, (_, i) => description[i])
-    const highlight = "Actively seeking for Summer Internship!"
-    const highlightArray = Array.from({length: highlight.length}, (_, i) => highlight[i])
-    const highlight2 = "(May to Aug 2024)"
-    const highlight2Array = Array.from({length: highlight2.length}, (_, i) => highlight2[i])
+    // const description = "Year 2 Computer Science undergraduate at National University of Singapore."
+    // const descriptionArray = Array.from({length: description.length}, (_, i) => description[i])
+    // const highlight = "Actively seeking for Summer Internship!"
+    // const highlightArray = Array.from({length: highlight.length}, (_, i) => highlight[i])
+    // const highlight2 = "(May to Aug 2024)"
+    // const highlight2Array = Array.from({length: highlight2.length}, (_, i) => highlight2[i])
     
     useEffect(() => {
         setTimeout(() => {
@@ -48,31 +49,18 @@ const Home = () => {
                 </h1>
 
                 <h2>
-                <AnimatedLetters
-                        letterClass={letterClass}
-                        stringArray={descriptionArray}
-                        index={34}
-                />
+                Year 2 Computer Science undergraduate at National University of Singapore.
                 <br />
                 <br />
-                <AnimatedLetters
-                    letterClass={letterClass}
-                    stringArray={highlightArray}
-                    index={108}
-                />
+                Actively seeking for Summer Internship! (May to Aug 2024)
                 <br />
-                <AnimatedLetters
-                    letterClass={letterClass}
-                    stringArray={highlight2Array}
-                    index={147}
-                />
                 </h2>
                 
-                {/* <h2>Year 2 Computer Science undergraduate at National University of Singapore.</h2>
-                <h2>Actively seeking for Summer Internship!</h2> */}
                 <Link to="/contact" className='flat-button'>
                     CONTACT ME!
                 </Link>
+                <t />
+                <a href={Resume} className='resume-button' download>DOWNLOAD LATEST RESUME (MID-FEB 2024)</a>
             </div>
             <Logo>
                 
