@@ -41,6 +41,10 @@
 
 .about-page, 
 .contact-page {
+    overflow-y: auto;
+    overflow-x: auto;
+    background-image: 'url(src\assets\images\abstract-dark-red-background.jpg)';
+    
     .text-zone {
         position: absolute;
         left: 10%;

@@ -8,7 +8,7 @@ import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 
 const Sidebar = () => (
     <div className='nav-bar'>
-        <Link className='logo' to='/'>
+        <Link className='logo' to='/fcyr-portfolio'>
             <img src={LogoF} alt="FCYR Logo" />
             <img className='sub-logo' src={LogoFSubtitle} alt="Freddy Chen You Ren" />
         </Link>
