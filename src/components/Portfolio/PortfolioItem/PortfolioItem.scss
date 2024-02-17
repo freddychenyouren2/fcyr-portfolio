@@ -36,8 +36,9 @@
       align-items: center;
   
       img {
-        max-width: 50%;
+        max-width: 75%;
         height: auto;
+        border-radius: 10px;
       }
     }
 
@@ -79,7 +80,7 @@
     .urls {
         margin-top: 20px;
         padding: 10px;
-        background-color: #ff9950; // Transparent white background
+        background-color: #ff9950; 
         border-radius: 10px; // Rounded borders
         animation: zoomIn 1s 2s ease-in-out backwards;
       }

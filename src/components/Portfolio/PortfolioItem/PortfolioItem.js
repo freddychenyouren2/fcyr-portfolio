@@ -2,7 +2,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import './PortfolioItem.scss'; // Import SCSS file for styling
 
-const PortfolioItem = ({ title, description, imageUrl, largerImageUrl , urls }) => {
+const PortfolioItem = ({ title, descriptions, imageUrl, largerImageUrl , urls }) => {
   const [showOverlay, setShowOverlay] = useState(false);
   const overlayRef = useRef(null);
   const imageRef = useRef(null);
@@ -34,7 +34,11 @@ const PortfolioItem = ({ title, description, imageUrl, largerImageUrl , urls }) 
     <div className="portfolio-item">
       <div className="description">
         <h2>{title}</h2>
-        <p>{description}</p>
+        <div className="descriptions">
+            {descriptions.map((sentence, index) => (
+                <p key={index}>{sentence}</p>
+            ))}
+        </div>
         {urls && 
             <div className="urls">
             {urls.map((url, index) => (
@@ -45,13 +49,13 @@ const PortfolioItem = ({ title, description, imageUrl, largerImageUrl , urls }) 
       </div>
       
       <div className="image">
-        <div 
+        {/* <div 
             className={`overlay ${showOverlay ? 'show' : ''}`}
             style={{ display: showOverlay ? 'block' : 'none' }}
             ref={overlayRef}
         >
           <img src={largerImageUrl} alt={title} />
-        </div>
+        </div> */}
         <img
           src={imageUrl}
           alt={title}
