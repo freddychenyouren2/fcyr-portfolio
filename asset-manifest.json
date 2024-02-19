@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/fcyr-portfolio/fcyr-portfolio/static/css/main.5dcb2802.css",
-    "main.js": "/fcyr-portfolio/fcyr-portfolio/static/js/main.2bb03282.js",
-    "static/js/453.c33b4530.chunk.js": "/fcyr-portfolio/fcyr-portfolio/static/js/453.c33b4530.chunk.js",
-    "static/media/NUShopLah-milestone-3-poster.png": "/fcyr-portfolio/fcyr-portfolio/static/media/NUShopLah-milestone-3-poster.274d45b9f04134e9e1b4.png",
-    "static/media/abstract-dark-red-background.jpg": "/fcyr-portfolio/fcyr-portfolio/static/media/abstract-dark-red-background.2de5bf0fbde126bc68b4.jpg",
-    "static/media/F-orange-fire-logo-transparent.png": "/fcyr-portfolio/fcyr-portfolio/static/media/F-orange-fire-logo-transparent.cf24b260beddffb719b8.png",
-    "static/media/ToothTracker.png": "/fcyr-portfolio/fcyr-portfolio/static/media/ToothTracker.31e97ec319bc529596dd.png",
-    "static/media/F-orange-fire-logo.jpg": "/fcyr-portfolio/fcyr-portfolio/static/media/F-orange-fire-logo.c7df2fdba8b230b72bc2.jpg",
-    "static/media/Freddy_Chen_You_Ren_Resume_Feb_2024_v2.pdf": "/fcyr-portfolio/fcyr-portfolio/static/media/Freddy_Chen_You_Ren_Resume_Feb_2024_v2.cbe21979214823a47104.pdf",
-    "static/media/F-logo-white-sub-red-background.png": "/fcyr-portfolio/fcyr-portfolio/static/media/F-logo-white-sub-red-background.5c7e5ff801b6fe48bb86.png",
-    "static/media/NUShopLah-logo-crop.png": "/fcyr-portfolio/fcyr-portfolio/static/media/NUShopLah-logo-crop.fa271df4ef8753dfcf2f.png",
-    "static/media/helvetica-neu.ttf": "/fcyr-portfolio/fcyr-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/VolunteerHub.png": "/fcyr-portfolio/fcyr-portfolio/static/media/VolunteerHub.4eeee87785676a2c6667.png",
-    "static/media/LaBelleAurore.woff2": "/fcyr-portfolio/fcyr-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/fcyr-portfolio/fcyr-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/fcyr-portfolio/fcyr-portfolio/index.html",
-    "main.5dcb2802.css.map": "/fcyr-portfolio/fcyr-portfolio/static/css/main.5dcb2802.css.map",
-    "main.2bb03282.js.map": "/fcyr-portfolio/fcyr-portfolio/static/js/main.2bb03282.js.map",
-    "453.c33b4530.chunk.js.map": "/fcyr-portfolio/fcyr-portfolio/static/js/453.c33b4530.chunk.js.map"
+    "main.css": "/fcyr-portfolio/static/css/main.6e151368.css",
+    "main.js": "/fcyr-portfolio/static/js/main.5d62525f.js",
+    "static/js/453.c33b4530.chunk.js": "/fcyr-portfolio/static/js/453.c33b4530.chunk.js",
+    "static/media/NUShopLah-milestone-3-poster.png": "/fcyr-portfolio/static/media/NUShopLah-milestone-3-poster.274d45b9f04134e9e1b4.png",
+    "static/media/abstract-dark-red-background.jpg": "/fcyr-portfolio/static/media/abstract-dark-red-background.2de5bf0fbde126bc68b4.jpg",
+    "static/media/F-orange-fire-logo-transparent.png": "/fcyr-portfolio/static/media/F-orange-fire-logo-transparent.cf24b260beddffb719b8.png",
+    "static/media/ToothTracker.png": "/fcyr-portfolio/static/media/ToothTracker.31e97ec319bc529596dd.png",
+    "static/media/F-orange-fire-logo.jpg": "/fcyr-portfolio/static/media/F-orange-fire-logo.c7df2fdba8b230b72bc2.jpg",
+    "static/media/Freddy_Chen_You_Ren_Resume_Feb_2024_v2.pdf": "/fcyr-portfolio/static/media/Freddy_Chen_You_Ren_Resume_Feb_2024_v2.cbe21979214823a47104.pdf",
+    "static/media/F-logo-white-sub-red-background.png": "/fcyr-portfolio/static/media/F-logo-white-sub-red-background.5c7e5ff801b6fe48bb86.png",
+    "static/media/NUShopLah-logo-crop.png": "/fcyr-portfolio/static/media/NUShopLah-logo-crop.fa271df4ef8753dfcf2f.png",
+    "static/media/helvetica-neu.ttf": "/fcyr-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/VolunteerHub.png": "/fcyr-portfolio/static/media/VolunteerHub.4eeee87785676a2c6667.png",
+    "static/media/LaBelleAurore.woff2": "/fcyr-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/fcyr-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/fcyr-portfolio/index.html",
+    "main.6e151368.css.map": "/fcyr-portfolio/static/css/main.6e151368.css.map",
+    "main.5d62525f.js.map": "/fcyr-portfolio/static/js/main.5d62525f.js.map",
+    "453.c33b4530.chunk.js.map": "/fcyr-portfolio/static/js/453.c33b4530.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5dcb2802.css",
-    "static/js/main.2bb03282.js"
+    "static/css/main.6e151368.css",
+    "static/js/main.5d62525f.js"
   ]
 }
