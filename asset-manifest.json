@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fcyr-portfolio/static/css/main.abab7d7d.css",
-    "main.js": "/fcyr-portfolio/static/js/main.38b62025.js",
+    "main.css": "/fcyr-portfolio/static/css/main.f246e91c.css",
+    "main.js": "/fcyr-portfolio/static/js/main.b1a5cccf.js",
     "static/js/453.c33b4530.chunk.js": "/fcyr-portfolio/static/js/453.c33b4530.chunk.js",
     "static/media/NUShopLah-milestone-3-poster.png": "/fcyr-portfolio/static/media/NUShopLah-milestone-3-poster.274d45b9f04134e9e1b4.png",
     "static/media/abstract-dark-red-background.jpg": "/fcyr-portfolio/static/media/abstract-dark-red-background.2de5bf0fbde126bc68b4.jpg",
@@ -16,12 +16,12 @@
     "static/media/LaBelleAurore.woff2": "/fcyr-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/fcyr-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/fcyr-portfolio/index.html",
-    "main.abab7d7d.css.map": "/fcyr-portfolio/static/css/main.abab7d7d.css.map",
-    "main.38b62025.js.map": "/fcyr-portfolio/static/js/main.38b62025.js.map",
+    "main.f246e91c.css.map": "/fcyr-portfolio/static/css/main.f246e91c.css.map",
+    "main.b1a5cccf.js.map": "/fcyr-portfolio/static/js/main.b1a5cccf.js.map",
     "453.c33b4530.chunk.js.map": "/fcyr-portfolio/static/js/453.c33b4530.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abab7d7d.css",
-    "static/js/main.38b62025.js"
+    "static/css/main.f246e91c.css",
+    "static/js/main.b1a5cccf.js"
   ]
 }
