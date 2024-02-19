@@ -62,6 +62,11 @@ const Home = () => {
                 </Link>
                 <t />
                 <a href={Resume} className='resume-button' download>DOWNLOAD LATEST RESUME (MID-FEB 2024)</a>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
             </div>
 
         </div>

@@ -81,6 +81,10 @@ const About = () => {
                     Let's connect and explore how my skill set and dedication can bring more success! 
                     I am ready to turn challenges into opportunities and make a lasting impact.
                 </p>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
                 
             </div>
 

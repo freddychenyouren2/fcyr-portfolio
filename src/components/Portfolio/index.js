@@ -1,7 +1,5 @@
 import './index.scss'
-import AnimatedLetters from '../AnimatedLetters'
 import { useState, useEffect } from 'react';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Loader from 'react-loaders';
 import PortfolioItem from './PortfolioItem/PortfolioItem';
 
@@ -65,25 +63,32 @@ const Portfolio = () => {
       
 
       return (
-        <div className="container portfolio-page">
-            
-            <div className='portfolio-zone'>
-                <div className='subtitle'>
-                    <h1>Computing Projects</h1>
-                </div>
-                {portfolioItems.map((item, index) => (
-                <PortfolioItem
-                key={index}
-                title={item.title}
-                descriptions={item.descriptions}
-                imageUrl={item.imageUrl}
-                largerImageUrl={item.largerImageUrl}
-                urls={item.urls}
-                />
-                ))}
-            </div>
-          
-        </div>
+        <>
+          <div className="container portfolio-page">
+              
+              <div className='portfolio-zone'>
+                  <div className='subtitle'>
+                      <h1>Computing Projects</h1>
+                  </div>
+                  {portfolioItems.map((item, index) => (
+                  <PortfolioItem
+                  key={index}
+                  title={item.title}
+                  descriptions={item.descriptions}
+                  imageUrl={item.imageUrl}
+                  largerImageUrl={item.largerImageUrl}
+                  urls={item.urls}
+                  />
+                  ))}
+                  <br/>
+                  <br/>
+                  <br/>
+                  <br/>
+              </div>
+              
+          </div>
+          <Loader type='pacman' />
+        </>
       );
 }
 
