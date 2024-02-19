@@ -11,10 +11,10 @@ function App() {
     <>
       <Routes>
         <Route path="/" element={<Layout />}>
-          <Route path='/fcyr-portfolio' element={<Home/>} />
-          <Route path="/fcyr-portfolio/about" element={<About />} />
-          <Route path="/fcyr-portfolio/portfolio" element={<Portfolio />} />
-          <Route path="/fcyr-portfolio/contact" element={<Contact />} />
+          <Route index element={<Home/>} />
+          <Route path="/about" element={<About />} />
+          <Route path="/portfolio" element={<Portfolio />} />
+          <Route path="/contact" element={<Contact />} />
         </Route>
       </Routes>
     </>
