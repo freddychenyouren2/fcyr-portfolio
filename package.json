@@ -1,7 +1,7 @@
 {
   "name": "fcyr-portfolio",
   "version": "0.1.0",
-  "homepage": "https://freddychenyouren2.github.io/fcyr-portfolio/fcyr-portfolio",
+  "homepage": "https://freddychenyouren2.github.io/fcyr-portfolio/",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
