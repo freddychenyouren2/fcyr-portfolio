@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fcyr-portfolio/static/css/main.6e151368.css",
-    "main.js": "/fcyr-portfolio/static/js/main.5d62525f.js",
+    "main.js": "/fcyr-portfolio/static/js/main.dc7e34ef.js",
     "static/js/453.c33b4530.chunk.js": "/fcyr-portfolio/static/js/453.c33b4530.chunk.js",
     "static/media/NUShopLah-milestone-3-poster.png": "/fcyr-portfolio/static/media/NUShopLah-milestone-3-poster.274d45b9f04134e9e1b4.png",
     "static/media/abstract-dark-red-background.jpg": "/fcyr-portfolio/static/media/abstract-dark-red-background.2de5bf0fbde126bc68b4.jpg",
@@ -17,11 +17,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/fcyr-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/fcyr-portfolio/index.html",
     "main.6e151368.css.map": "/fcyr-portfolio/static/css/main.6e151368.css.map",
-    "main.5d62525f.js.map": "/fcyr-portfolio/static/js/main.5d62525f.js.map",
+    "main.dc7e34ef.js.map": "/fcyr-portfolio/static/js/main.dc7e34ef.js.map",
     "453.c33b4530.chunk.js.map": "/fcyr-portfolio/static/js/453.c33b4530.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e151368.css",
-    "static/js/main.5d62525f.js"
+    "static/js/main.dc7e34ef.js"
   ]
 }
