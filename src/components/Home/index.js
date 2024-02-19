@@ -57,7 +57,7 @@ const Home = () => {
                 <br />
                 </h2>
                 
-                <Link to="/contact" className='flat-button'>
+                <Link to="/fcyr-portfolio/contact" className='flat-button'>
                     CONTACT ME!
                 </Link>
                 <t />

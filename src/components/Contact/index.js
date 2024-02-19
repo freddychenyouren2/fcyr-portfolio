@@ -44,6 +44,14 @@ const Contact = () => {
                             index={15}/>
                     </h1>
 
+                    <h2>
+                    Find me in LinkedIn or GitHub (Icons on the top or left of your screen)!
+                    <br />
+                    <br />
+                    Alternatively, send me an email here!
+                    <br />
+                    </h2>
+
                     <div className="contact-form">
                         <form ref={form} onSubmit={sendEmail}>
                         <ul>
