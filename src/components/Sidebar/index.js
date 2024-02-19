@@ -13,16 +13,16 @@ const Sidebar = () => (
             <img className='sub-logo' src={LogoFSubtitle} alt="Freddy Chen You Ren" />
         </Link>
         <nav>
-            <NavLink exact="true" activeClassname="active" to="/">
+            <NavLink exact="true" activeClassname="active" to="/fcyr-portfolio">
                 <FontAwesomeIcon icon = {faHome} color='#4d4d4e'/>
             </NavLink>
-            <NavLink exact="true" activeClassname="active" className="about-link" to="/about">
+            <NavLink exact="true" activeClassname="active" className="about-link" to="/fcyr-portfolio/about">
                 <FontAwesomeIcon icon = {faUser} color='#4d4d4e'/>
             </NavLink>
-            <NavLink exact="true" activeClassname="active" className="contact-link" to="/contact">
+            <NavLink exact="true" activeClassname="active" className="contact-link" to="/fcyr-portfolio/contact">
                 <FontAwesomeIcon icon = {faEnvelope} color='#4d4d4e'/>
             </NavLink>
-            <NavLink exact="true" activeClassname="active" className="portfolio-link" to="/portfolio">
+            <NavLink exact="true" activeClassname="active" className="portfolio-link" to="/fcyr-portfolio/portfolio">
                 <FontAwesomeIcon icon = {faBarsProgress} color='#4d4d4e'/>
             </NavLink>
         </nav>
