@@ -150,3 +150,42 @@
         }
     }
 }
+
+// Mobile version (styles within media query)
+@media only screen and (max-width: 768px) {
+    .portfolio-page {
+        .subtitle {
+        h1 {
+            font-size: 24px;
+            text-align: center;
+            left: 0;
+        }
+    }
+    }
+    
+    .text-zone,
+    .portfolio-zone {
+        position: static;
+        width: 100%;
+        max-width: 100%;
+        margin-top: 10px;
+        margin-left: 0;
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 40px;
+        margin-bottom: 20px;
+        left: auto;
+
+        &::before,
+        &::after {
+            display: none;
+        }
+    }
+
+    p {
+        font-size: 14px;
+        margin: 10px 0;
+    }
+}

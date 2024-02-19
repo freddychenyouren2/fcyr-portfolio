@@ -29,6 +29,7 @@ const Home = () => {
     return (
         <>
         <div className="container home-page">
+            <Logo />
             <div className="text-zone">
                 <h1>
                 <span className={letterClass}>Hello! </span>
@@ -62,9 +63,6 @@ const Home = () => {
                 <t />
                 <a href={Resume} className='resume-button' download>DOWNLOAD LATEST RESUME (MID-FEB 2024)</a>
             </div>
-            <Logo>
-                
-            </Logo>
 
         </div>
         <Loader type='pacman'/>

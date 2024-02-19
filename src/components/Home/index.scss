@@ -125,18 +125,25 @@
           box-sizing: border-box;
         }
       
-        .home-page .flat-button {
-          float: none;
+        .flat-button {
           display: block;
           margin: 20px auto 0 auto;
-          width: 124px;
+          width: 120px;
+          float: none;
+        }
+
+        .resume-button {
+          display: block;
+          margin: 20px auto 0 auto;
+          width: 120px;
+          float: none;
         }
       
         .logo-container {
           position: relative;
           width: 100px;
           height: auto;
-          top: 40%;
+          top: 0%;
           right: 10%;
           box-sizing: border-box;
           margin: auto;
@@ -151,5 +158,51 @@
           left: 0;
           margin: auto;
         }
+      }
+
+      @media screen and (max-width: 768px) {
+        .logo-container {
+          position:relative;
+          align-items: center;
+          width: 100px;
+          height: 100px;
+          top: 0%;
+          right: 10%;
+          box-sizing: border-box;
+          margin: auto;
+          left: 0;
+        }
+      
+        .logo-container svg {
+          position: absolute;
+          top: auto;
+          right: auto;
+          bottom: auto;
+          left: 0;
+          margin: auto;
+        }
+      
+        .text-zone {
+          position: initial;
+          width: 100%;
+          transform: none;
+          padding: 10px;
+          box-sizing: border-box;
+        }
+
+        h1 {
+          font-size: 40px;
+        }
+
+        h2 {
+          margin-top: 0px;
+        }
+
+        // .flat-button {
+        //   display: block;
+        //   margin: 20px auto 0 auto;
+        //   width: 124px;
+        //   float: none;
+        // }
       }
 }

@@ -21,6 +21,37 @@ const About = () => {
         <>
         
         <div className='container about-page'>
+            <div className='stage-cube-cont'>
+                <div className='cubeSpinner'>
+                    <div className='face1'>
+                        <FontAwesomeIcon icon={faHtml5} color='#F06529'/>
+                    </div>
+                    <div className='face2'>
+                        <FontAwesomeIcon icon={faCss3Alt} color='#28A4D9'/>
+                    </div>
+                    <div className='face3'>
+                        <FontAwesomeIcon icon={faReact} color='#5ED4F4'/>
+                    </div>
+                    <div className='face4'>
+                        <FontAwesomeIcon icon={faJsSquare} color='#EFD81D'/>
+                    </div>
+                    <div className='face5'>
+                        <FontAwesomeIcon icon={faPython} color='#4584b6'/>
+                    </div>
+                    <div className='face6'>
+                        <FontAwesomeIcon icon={faJava} color='#f89820'/>
+                    </div>
+                    <div className='face7'>
+                        <FontAwesomeIcon icon={faGitAlt} color='#ffffff'/>
+                    </div>
+                    <div className='face8'>
+                        <FontAwesomeIcon icon={faGithub} color='#000000'/>
+                    </div>
+
+                </div>
+
+            </div>
+
             <div className='text-zone'>
                 <h1>
                     <AnimatedLetters
@@ -53,36 +84,7 @@ const About = () => {
                 
             </div>
 
-            <div className='stage-cube-cont'>
-                <div className='cubeSpinner'>
-                    <div className='face1'>
-                        <FontAwesomeIcon icon={faHtml5} color='#F06529'/>
-                    </div>
-                    <div className='face2'>
-                        <FontAwesomeIcon icon={faCss3Alt} color='#28A4D9'/>
-                    </div>
-                    <div className='face3'>
-                        <FontAwesomeIcon icon={faReact} color='#5ED4F4'/>
-                    </div>
-                    <div className='face4'>
-                        <FontAwesomeIcon icon={faJsSquare} color='#EFD81D'/>
-                    </div>
-                    <div className='face5'>
-                        <FontAwesomeIcon icon={faPython} color='#4584b6'/>
-                    </div>
-                    <div className='face6'>
-                        <FontAwesomeIcon icon={faJava} color='#f89820'/>
-                    </div>
-                    <div className='face7'>
-                        <FontAwesomeIcon icon={faGitAlt} color='#ffffff'/>
-                    </div>
-                    <div className='face8'>
-                        <FontAwesomeIcon icon={faGithub} color='#000000'/>
-                    </div>
-
-                </div>
-
-            </div>
+            
         </div>
         <Loader type='pacman'/>
         </>
