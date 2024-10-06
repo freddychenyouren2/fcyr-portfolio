@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import AnimatedLetters from '../AnimatedLetters';
 import Logo from './Logo';
 import Loader from 'react-loaders';
-import Resume from '../../assets/documents/Freddy_Chen_You_Ren_Resume_Feb_2024_v2.pdf';
+import Resume from '../../assets/documents/Freddy_Chen_You_Ren_Resume_Aug_2024.pdf';
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate');
@@ -50,18 +50,22 @@ const Home = () => {
                 </h1>
 
                 <h2>
-                Year 2 Computer Science undergraduate at National University of Singapore.
+                Year 3 Computer Science undergraduate at National University of Singapore (NUS).
+                <br />
+                Pursuing 2nd Major in Management at NUS Business School.
                 <br />
                 <br />
-                Actively seeking for Summer Internship! (May to Aug 2024)
+                Actively Seeking for a rewarding 2025 Summer Internship! (May to Aug 2025).
+                <br />
                 <br />
                 </h2>
+                <h3 className='post-script'>(PS: Flexible timing off-cylce internships may work too.) </h3>
                 
                 <Link to="/fcyr-portfolio/contact" className='flat-button'>
                     CONTACT ME!
                 </Link>
                 <t />
-                <a href={Resume} className='resume-button' download>DOWNLOAD LATEST RESUME (MID-FEB 2024)</a>
+                <a href={Resume} className='resume-button' download>DOWNLOAD LATEST RESUME (OCT 2024)</a>
                 <br/>
                 <br/>
                 <br/>

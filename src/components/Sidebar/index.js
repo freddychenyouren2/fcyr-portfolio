@@ -22,7 +22,15 @@ const Sidebar = () => (
             <NavLink exact="true" activeClassname="active" className="contact-link" to="/fcyr-portfolio/contact">
                 <FontAwesomeIcon icon = {faEnvelope} color='#4d4d4e'/>
             </NavLink>
-            <NavLink exact="true" activeClassname="active" className="portfolio-link" to="/fcyr-portfolio/portfolio">
+            <NavLink 
+                activeClassname="active" 
+                className="portfolio-link" 
+                to="/fcyr-portfolio/portfolio/Computing+Projects"
+                isActive={(match, location) => {
+                    // Check if the current URL starts with /fcyr-portfolio
+                    return location.pathname.startsWith("/fcyr-portfolio/portfolio");
+                    }}
+            >
                 <FontAwesomeIcon icon = {faBarsProgress} color='#4d4d4e'/>
             </NavLink>
         </nav>
@@ -30,7 +38,7 @@ const Sidebar = () => (
             <li>
                 <a 
                     target='_blank'
-                    rel="noneferrer" 
+                    rel="noreferrer"
                     // eslint-disable-next-line
                     href="https://www.linkedin.com/in/freddy-chen-you-ren-87b56b243/">
                     <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
@@ -39,7 +47,7 @@ const Sidebar = () => (
             <li>
                 <a 
                     target='_blank'
-                    rel="noneferrer" 
+                    rel="noreferrer" 
                     // eslint-disable-next-line
                     href="https://github.com/freddychenyouren2/">
                     <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />

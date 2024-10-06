@@ -2,7 +2,7 @@ import AnimatedLetters from '../AnimatedLetters'
 import { useState, useEffect } from 'react';
 import './index.scss'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCss3Alt, faGitAlt, faGithub, faHtml5, faJava, faJsSquare, faPython, faReact } from '@fortawesome/free-brands-svg-icons';
+import { faCss3Alt, faDocker, faGitAlt, faGithub, faJava, faJsSquare, faPython, faReact } from '@fortawesome/free-brands-svg-icons';
 import Loader from 'react-loaders';
 
 const About = () => {
@@ -24,7 +24,7 @@ const About = () => {
             <div className='stage-cube-cont'>
                 <div className='cubeSpinner'>
                     <div className='face1'>
-                        <FontAwesomeIcon icon={faHtml5} color='#F06529'/>
+                        <FontAwesomeIcon icon={faDocker} color='#1D63ED'/>
                     </div>
                     <div className='face2'>
                         <FontAwesomeIcon icon={faCss3Alt} color='#28A4D9'/>
@@ -67,7 +67,8 @@ const About = () => {
                     in creating solutions for society. I embrace opportunities that 
                     offer professional challenges utilizing interpersonal skills,
                     excellent time management, and problem-solving skills.
-                    I am actively looking for a Summer Internship in 2024 (May to August). 
+                    I wish to enjoy contributing meaningfully in a conducive and supportive environment with great sense of accomplishment.
+                    I am looking for a rewarding Summer Internship in 2025 (May to August) or part-time flexible timing internships. 
                 </p>
                 <p>
                     In striving towards my ambitions, I place high importance on cultivating 

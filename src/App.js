@@ -13,7 +13,8 @@ function App() {
         <Route path="/" element={<Layout />}>
           <Route path='/fcyr-portfolio' element={<Home/>} />
           <Route path="/fcyr-portfolio/about" element={<About />} />
-          <Route path="/fcyr-portfolio/portfolio" element={<Portfolio />} />
+          {/* Dynamic Route for portfolio page depending on portfolio type */}
+          <Route path="/fcyr-portfolio/portfolio/:portfolioType" element={<Portfolio />} />
           <Route path="/fcyr-portfolio/contact" element={<Contact />} />
         </Route>
       </Routes>
