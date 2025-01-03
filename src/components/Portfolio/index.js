@@ -8,6 +8,7 @@ import WorkExperienceItem from './WorkExperienceItem/WorkExperienceItem';
 
 import { portfolioItems } from './PortfolioItem/PortfolioItem';
 import { workExperienceItems } from './WorkExperienceItem/WorkExperienceItem';
+import NUSCOItem, { NUSCOItems } from './NUSCOItem/NUSCOItem';
 
 
 const Portfolio = () => {
@@ -25,6 +26,10 @@ const Portfolio = () => {
     'Work Experience': {
         items: workExperienceItems,
         component: WorkExperienceItem,
+    },
+    'NUS Chinese Orchestra': {
+        items: NUSCOItems,
+        component: NUSCOItem,
     },
     // Add more portfolio types here (Extra-curricular, Interests, etc.)
   };
