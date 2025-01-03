@@ -1,15 +1,26 @@
 {
   "files": {
-    "main.css": "/fcyr-portfolio/static/css/main.96d670b9.css",
-    "main.js": "/fcyr-portfolio/static/js/main.f6d17289.js",
+    "main.css": "/fcyr-portfolio/static/css/main.8214a0dc.css",
+    "main.js": "/fcyr-portfolio/static/js/main.9270c67e.js",
     "static/js/453.c33b4530.chunk.js": "/fcyr-portfolio/static/js/453.c33b4530.chunk.js",
+    "static/media/Essentially_Macbeth_Programme_Booklet_SCCC_2024.pdf": "/fcyr-portfolio/static/media/Essentially_Macbeth_Programme_Booklet_SCCC_2024.8d7004b7ede43baeeb5c.pdf",
     "static/media/NUShopLah-milestone-3-poster.png": "/fcyr-portfolio/static/media/NUShopLah-milestone-3-poster.274d45b9f04134e9e1b4.png",
+    "static/media/Journey-To-The-East.png": "/fcyr-portfolio/static/media/Journey-To-The-East.8456a206f787a1d96c82.png",
+    "static/media/NUSCO50.png": "/fcyr-portfolio/static/media/NUSCO50.5d65b3e6186823541c0f.png",
+    "static/media/MOJO-The-Rising-Sun-Programme-Booklet.pdf": "/fcyr-portfolio/static/media/MOJO-The-Rising-Sun-Programme-Booklet.de37c52df4d8a61f05b2.pdf",
+    "static/media/MOJO-The-Rising-Sun.png": "/fcyr-portfolio/static/media/MOJO-The-Rising-Sun.e900b1e6865736b12481.png",
     "static/media/abstract-dark-red-background.jpg": "/fcyr-portfolio/static/media/abstract-dark-red-background.2de5bf0fbde126bc68b4.jpg",
     "static/media/F-orange-fire-logo-transparent.png": "/fcyr-portfolio/static/media/F-orange-fire-logo-transparent.cf24b260beddffb719b8.png",
     "static/media/ToothTracker.png": "/fcyr-portfolio/static/media/ToothTracker.31e97ec319bc529596dd.png",
     "static/media/F-orange-fire-logo.jpg": "/fcyr-portfolio/static/media/F-orange-fire-logo.c7df2fdba8b230b72bc2.jpg",
+    "static/media/NUSCO-Symphonic-Fiesta-2024.jpg": "/fcyr-portfolio/static/media/NUSCO-Symphonic-Fiesta-2024.cb3c9f5d786ba728b728.jpg",
+    "static/media/NUSSO-Fantastic-Instruments.jpg": "/fcyr-portfolio/static/media/NUSSO-Fantastic-Instruments.909600a38ab4938f3bc9.jpg",
+    "static/media/YALC-WBAS-Leadership-Talk.jpg": "/fcyr-portfolio/static/media/YALC-WBAS-Leadership-Talk.8fe2351acfec732e33bf.jpg",
     "static/media/Freddy_Chen_You_Ren_Resume_Aug_2024.pdf": "/fcyr-portfolio/static/media/Freddy_Chen_You_Ren_Resume_Aug_2024.5d68dfb9b38f84b0548a.pdf",
+    "static/media/NUSCO-Train-Of-Time-Homebound.jpg": "/fcyr-portfolio/static/media/NUSCO-Train-Of-Time-Homebound.2094ba621bdb6f29a527.jpg",
+    "static/media/Essentially-Macbeth-2024.jpg": "/fcyr-portfolio/static/media/Essentially-Macbeth-2024.f6d71febde3015c5aad6.jpg",
     "static/media/SparkyAnimation.jpg": "/fcyr-portfolio/static/media/SparkyAnimation.5ca21656be269594ed4f.jpg",
+    "static/media/NUSCO-In-Bloom.jpg": "/fcyr-portfolio/static/media/NUSCO-In-Bloom.f738a40e5ad7d3b278cb.jpg",
     "static/media/AsindoKarya.jpg": "/fcyr-portfolio/static/media/AsindoKarya.292ddbad9d272736f716.jpg",
     "static/media/F-logo-white-sub-red-background.png": "/fcyr-portfolio/static/media/F-logo-white-sub-red-background.5c7e5ff801b6fe48bb86.png",
     "static/media/NUShopLah-logo-crop.png": "/fcyr-portfolio/static/media/NUShopLah-logo-crop.fa271df4ef8753dfcf2f.png",
@@ -18,12 +29,12 @@
     "static/media/LaBelleAurore.woff2": "/fcyr-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/fcyr-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/fcyr-portfolio/index.html",
-    "main.96d670b9.css.map": "/fcyr-portfolio/static/css/main.96d670b9.css.map",
-    "main.f6d17289.js.map": "/fcyr-portfolio/static/js/main.f6d17289.js.map",
+    "main.8214a0dc.css.map": "/fcyr-portfolio/static/css/main.8214a0dc.css.map",
+    "main.9270c67e.js.map": "/fcyr-portfolio/static/js/main.9270c67e.js.map",
     "453.c33b4530.chunk.js.map": "/fcyr-portfolio/static/js/453.c33b4530.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96d670b9.css",
-    "static/js/main.f6d17289.js"
+    "static/css/main.8214a0dc.css",
+    "static/js/main.9270c67e.js"
   ]
 }
