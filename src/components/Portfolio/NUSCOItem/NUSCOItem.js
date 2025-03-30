@@ -17,7 +17,7 @@ import NUSCO50Img from '../../../assets/images/portfolio/NUSCO/NUSCO50.png'
 export const NUSCOItems = [
   {
     title: 'Train of Time: Homebound',
-    affliation: "NUS Chinese Orchestra (NUSCO)",
+    affiliation: "NUS Chinese Orchestra (NUSCO)",
     eventType: 'Outreach Programme',
     period: 'November 2024, Academic Year 24/25 Semester 1',
     location: 'Yong Siew Toh (YST) Concert Hall, NUS',
@@ -36,14 +36,14 @@ export const NUSCOItems = [
   },
   {
     title: 'NUSSO - Fantastic Instruments & Where to Hear Them',
-    affliation: "NUS Symphony Orchestra (NUSSO)",
+    affiliation: "NUS Symphony Orchestra (NUSSO)",
     eventType: 'Outreach Programme',
     period: 'November 2024, Academic Year 24/25 Semester 1',
     location: 'Yong Siew Toh (YST) Concert Hall, NUS',
     descriptions: [
       "Guest played for NUS Symphony Orchestra (NUSSO) Percussion section in their concert with Greenwood Primary School.",
       "This concert occurs back-to-back with NUS Chinese Orchestra and NUS Winds Symphony, which have their respective concert programmes.",
-      "Songs Played: 'Morning Mood' and 'In the Hall of the Mountain King' from Peer Gynt Suite No.1 Op.46 by Edward Grieg, The Lord of the Rings - The Fellowship of the Ring, Harry's Wondorous World.",
+      "Songs Played: 'Morning Mood' and 'In the Hall of the Mountain King' from Peer Gynt Suite No.1 Op.46 by Edward Grieg, The Lord of the Rings - The Fellowship of the Ring, Harry's Wondrous World.",
     ],
     imageUrl: NUSSOFantasticInstrumentImg,
     largerImageUrl: 'https://www.facebook.com/story.php?story_fbid=564704535920795&id=100071437594604',
@@ -51,17 +51,17 @@ export const NUSCOItems = [
       { label: 'Song 1: Morning Mood from Peer Gynt Suite No.1 Op.46', url: '' },
       { label: 'Song 2: In the Hall of the Mountain King from Peer Gynt Suite No.1 Op.46', url: '' },
       { label: 'Song 3: The Lord of the Rings - The Fellowship of the Ring', url: ''},
-      { label: 'Song 4: Harry\'s Wondorous World', url: ''},
+      { label: 'Song 4: Harry\'s Wondrous World', url: ''},
     ],
   },
   {
     title: 'Youth Arts Leaders Conference (YALC) 2024',
-    affliation: "NUS Chinese Orchestra (NUSCO), NUS Wind Symphony (NUSWS)",
+    affiliation: "NUS Chinese Orchestra (NUSCO), NUS Wind Symphony (NUSWS)",
     eventType: 'Leadership Conference',
     period: 'August 2024, Academic Year 24/25 Semester 1',
     location: 'University Town, NUS',
     descriptions: [
-      "Joinly organized with Wind Bands Association of Singapore (WBAS), YALC 2024 serves to nurture music leaders from Secondary School and pre-university institutions through a 2-day workshop conference.",
+      "Jointly organized with Wind Bands Association of Singapore (WBAS), YALC 2024 serves to nurture music leaders from Secondary School and pre-university institutions through a 2-day workshop conference.",
       "Crafted and Conducted 90-minute leadership talk about Section Leader and Executive Committee in an Orchestral Setting to percussionists from participating schools.",
       "Guest Played The Avengers alongside NUSWS and various secondary school students. ",
     ],
@@ -74,7 +74,7 @@ export const NUSCOItems = [
   },
   {
     title: 'Symphonic Fiesta 2024',
-    affliation: "NUS Chinese Orchestra (NUSCO), NUS Wind Symphony (NUSWS)",
+    affiliation: "NUS Chinese Orchestra (NUSCO), NUS Wind Symphony (NUSWS)",
     eventType: 'Freshman Orientation Programme',
     period: 'July 2024, Academic Year 24/25 Semester 1',
     location: 'University Town, NUS',
@@ -96,7 +96,7 @@ export const NUSCOItems = [
   },
   {
     title: 'Essentially Macbeth 必要麦克白 (Cultural Extravaganza 2024)',
-    affliation: "NUS Chinese Orchestra (NUSCO), NUS Chinese Drama",
+    affiliation: "NUS Chinese Orchestra (NUSCO), NUS Chinese Drama",
     eventType: 'Artistic Showcase',
     period: 'June 2024, Academic Year 23/24 Semester 2 - Summer Vacation',
     location: 'Singapore Chinese Cultural Centre (SCCC)',
@@ -115,7 +115,7 @@ export const NUSCOItems = [
   },
   {
     title: 'MOJO - The Rising Sun',
-    affliation: "MOJO, Yong Siew Toh (YST) Conservatory of Music",
+    affiliation: "MOJO, Yong Siew Toh (YST) Conservatory of Music",
     eventType: 'Artistic Showcase',
     period: 'April 2024, Academic Year 23/24 Semester 2',
     location: 'Yong Siew Toh (YST) Concert Hall, NUS',
@@ -137,13 +137,13 @@ export const NUSCOItems = [
   },
   {
     title: 'In Bloom 。盛季 🌷',
-    affliation: "NUS Chinese Orchestra (NUSCO)",
+    affiliation: "NUS Chinese Orchestra (NUSCO)",
     eventType: 'Artistic Showcase',
     period: 'March 2024, Academic Year 23/24 Semester 2',
     location: 'University Cultural Centre Ho Bee Auditorium, NUS',
     descriptions: [
       "A performance with contemporary pieces with interesting storyline of the life journey of a flower.",
-      "Song theme revoles around nature, aspirations and landscape explorations."
+      "Song theme revolves around nature, aspirations and landscape explorations."
     ],
     imageUrl: NUSCOInBloomImg,
     largerImageUrl: '',
@@ -156,7 +156,7 @@ export const NUSCOItems = [
   },
   {
     title: 'Journey to the East 东游记',
-    affliation: "NUS Chinese Orchestra (NUSCO), NUS Chinese Dance",
+    affiliation: "NUS Chinese Orchestra (NUSCO), NUS Chinese Dance",
     eventType: 'Outreach Programme',
     period: 'Nov 2023, Academic Year 23/24 Semester 1',
     location: 'University Cultural Centre Theatre, NUS',
@@ -178,7 +178,7 @@ export const NUSCOItems = [
   },
   {
     title: 'NUSCO50 (NUSCO 50th Anniversary)',
-    affliation: "NUS Chinese Orchestra (NUSCO), NUS Alumni Chinese Orchestra (NUSACO)",
+    affiliation: "NUS Chinese Orchestra (NUSCO), NUS Alumni Chinese Orchestra (NUSACO)",
     eventType: 'Artistic Showcase',
     period: 'June 2023, Academic Year 22/23 Semester 2 - Summer Vacation',
     location: 'University Cultural Centre, NUS',
@@ -201,7 +201,7 @@ export const NUSCOItems = [
   // Add more portfolio items as needed
 ];
 
-const NUSCOItem = ({ title, affliation, eventType, period, location, descriptions, imageUrl, largerImageUrl , songs, urls }) => {
+const NUSCOItem = ({ title, affiliation, eventType, period, location, descriptions, imageUrl, largerImageUrl , songs, urls }) => {
   const [showOverlay, setShowOverlay] = useState(false);
   const overlayRef = useRef(null);
   const imageRef = useRef(null);
@@ -233,7 +233,7 @@ const NUSCOItem = ({ title, affliation, eventType, period, location, description
     <div className="nusco-item">
       <div className="description">
         <h2>{title}</h2>
-        <h3>Affliated with: {affliation}</h3>
+        <h3>Affiliated with: {affiliation}</h3>
         <h3>Event Type: {eventType}</h3>
         <h3>Period: {period}</h3>
         <h3>Location: {location}</h3>
