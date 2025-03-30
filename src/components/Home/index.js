@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import AnimatedLetters from '../AnimatedLetters';
 import Logo from './Logo';
 import Loader from 'react-loaders';
-import Resume from '../../assets/documents/Freddy_Chen_You_Ren_Resume_Jan_2025.pdf';
+import Resume from '../../assets/documents/Freddy_Chen_You_Ren_Resume_Mar_2025.pdf';
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate');
@@ -65,7 +65,7 @@ const Home = () => {
                     CONTACT ME!
                 </Link>
                 <t />
-                <a href={Resume} className='resume-button' download>DOWNLOAD LATEST RESUME (JAN 2025)</a>
+                <a href={Resume} className='resume-button' download>DOWNLOAD LATEST RESUME (MAR 2025)</a>
                 <br/>
                 <br/>
                 <br/>

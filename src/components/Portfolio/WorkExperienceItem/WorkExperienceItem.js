@@ -24,7 +24,7 @@ export const workExperienceItems = [
   },
   {
     company: 'Asindo Karya',
-    jobTitle: 'Procurement Assitant',
+    jobTitle: 'Procurement Assistant',
     jobLevel: 'Freelance',
     period: 'Nov 2020 - Present',
     descriptions: [

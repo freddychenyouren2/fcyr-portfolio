@@ -37,7 +37,7 @@ export const portfolioItems = [
   {
     title: 'Project ToothTracker',
     descriptions: [
-      "Collaborated in a team of 5 to develop a dental clinic management Java desktop application. This is part of CS2103T Software Eningeering Course in NUS.",
+      "Collaborated in a team of 5 to develop a dental clinic management Java desktop application. This is part of CS2103T Software Engineering Course in NUS.",
       "Software engineering practices like Developer Guide, User Guide, Testing and Bug triaging are emphasised.",
     ],
     imageUrl: ToothTrackerImg,
