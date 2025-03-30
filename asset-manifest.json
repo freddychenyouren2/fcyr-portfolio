@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fcyr-portfolio/static/css/main.b8980b3a.css",
-    "main.js": "/fcyr-portfolio/static/js/main.1edf876a.js",
+    "main.js": "/fcyr-portfolio/static/js/main.b486a0fe.js",
     "static/js/453.c33b4530.chunk.js": "/fcyr-portfolio/static/js/453.c33b4530.chunk.js",
     "static/media/Essentially_Macbeth_Programme_Booklet_SCCC_2024.pdf": "/fcyr-portfolio/static/media/Essentially_Macbeth_Programme_Booklet_SCCC_2024.8d7004b7ede43baeeb5c.pdf",
     "static/media/NUShopLah-milestone-3-poster.png": "/fcyr-portfolio/static/media/NUShopLah-milestone-3-poster.274d45b9f04134e9e1b4.png",
@@ -16,7 +16,7 @@
     "static/media/NUSCO-Symphonic-Fiesta-2024.jpg": "/fcyr-portfolio/static/media/NUSCO-Symphonic-Fiesta-2024.cb3c9f5d786ba728b728.jpg",
     "static/media/NUSSO-Fantastic-Instruments.jpg": "/fcyr-portfolio/static/media/NUSSO-Fantastic-Instruments.909600a38ab4938f3bc9.jpg",
     "static/media/YALC-WBAS-Leadership-Talk.jpg": "/fcyr-portfolio/static/media/YALC-WBAS-Leadership-Talk.8fe2351acfec732e33bf.jpg",
-    "static/media/Freddy_Chen_You_Ren_Resume_Jan_2025.pdf": "/fcyr-portfolio/static/media/Freddy_Chen_You_Ren_Resume_Jan_2025.ebf970388a3f6deadb11.pdf",
+    "static/media/Freddy_Chen_You_Ren_Resume_Mar_2025.pdf": "/fcyr-portfolio/static/media/Freddy_Chen_You_Ren_Resume_Mar_2025.015c94ca2d453225a31b.pdf",
     "static/media/NUSCO-Train-Of-Time-Homebound.jpg": "/fcyr-portfolio/static/media/NUSCO-Train-Of-Time-Homebound.2094ba621bdb6f29a527.jpg",
     "static/media/Essentially-Macbeth-2024.jpg": "/fcyr-portfolio/static/media/Essentially-Macbeth-2024.f6d71febde3015c5aad6.jpg",
     "static/media/SparkyAnimation.jpg": "/fcyr-portfolio/static/media/SparkyAnimation.5ca21656be269594ed4f.jpg",
@@ -30,11 +30,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/fcyr-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/fcyr-portfolio/index.html",
     "main.b8980b3a.css.map": "/fcyr-portfolio/static/css/main.b8980b3a.css.map",
-    "main.1edf876a.js.map": "/fcyr-portfolio/static/js/main.1edf876a.js.map",
+    "main.b486a0fe.js.map": "/fcyr-portfolio/static/js/main.b486a0fe.js.map",
     "453.c33b4530.chunk.js.map": "/fcyr-portfolio/static/js/453.c33b4530.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8980b3a.css",
-    "static/js/main.1edf876a.js"
+    "static/js/main.b486a0fe.js"
   ]
 }
