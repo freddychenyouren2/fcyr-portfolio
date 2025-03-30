@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fcyr-portfolio/static/css/main.b8980b3a.css",
-    "main.js": "/fcyr-portfolio/static/js/main.b486a0fe.js",
+    "main.js": "/fcyr-portfolio/static/js/main.187bbcef.js",
     "static/js/453.c33b4530.chunk.js": "/fcyr-portfolio/static/js/453.c33b4530.chunk.js",
     "static/media/Essentially_Macbeth_Programme_Booklet_SCCC_2024.pdf": "/fcyr-portfolio/static/media/Essentially_Macbeth_Programme_Booklet_SCCC_2024.8d7004b7ede43baeeb5c.pdf",
     "static/media/NUShopLah-milestone-3-poster.png": "/fcyr-portfolio/static/media/NUShopLah-milestone-3-poster.274d45b9f04134e9e1b4.png",
@@ -30,11 +30,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/fcyr-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/fcyr-portfolio/index.html",
     "main.b8980b3a.css.map": "/fcyr-portfolio/static/css/main.b8980b3a.css.map",
-    "main.b486a0fe.js.map": "/fcyr-portfolio/static/js/main.b486a0fe.js.map",
+    "main.187bbcef.js.map": "/fcyr-portfolio/static/js/main.187bbcef.js.map",
     "453.c33b4530.chunk.js.map": "/fcyr-portfolio/static/js/453.c33b4530.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8980b3a.css",
-    "static/js/main.b486a0fe.js"
+    "static/js/main.187bbcef.js"
   ]
 }
