@@ -40,7 +40,7 @@ const Sidebar = () => (
                     target='_blank'
                     rel="noreferrer"
                     // eslint-disable-next-line
-                    href="https://www.linkedin.com/in/freddy-chen-you-ren-87b56b243/">
+                    href="https://www.linkedin.com/in/freddychenyouren/">
                     <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
                 </a>
             </li>
