@@ -68,7 +68,7 @@ const About = () => {
                     offer professional challenges utilizing interpersonal skills,
                     excellent time management, and problem-solving skills.
                     I wish to enjoy contributing meaningfully in a conducive and supportive environment with great sense of accomplishment.
-                    I am looking for a rewarding Summer Internship in 2025 (May to August) or part-time flexible timing internships. 
+                    I am looking for a rewarding internship to enrich my Final Year undergraduate experience. 
                 </p>
                 <p>
                     In striving towards my ambitions, I place high importance on cultivating 
