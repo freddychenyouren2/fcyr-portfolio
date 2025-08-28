@@ -87,7 +87,7 @@
       text-align: center;
       text-decoration: none;
       transition: transform 0.2s ease;
-      cursor: pointer;
+      cursor: default;
 
       /* Animation */
       animation: bg-swap var(--gc-duration) ease-in-out infinite,

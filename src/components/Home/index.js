@@ -57,9 +57,9 @@ const Home = () => {
                 <br />
                 <br />
                 
-                <Link to="/fcyr-portfolio/contact" className="glow-card">
+                <p className="glow-card">
                     Actively seeking a rewarding 2025/2026 Internship.
-                </Link>
+                </p>
 
 
                 <br />
