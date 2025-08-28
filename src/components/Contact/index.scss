@@ -65,10 +65,15 @@ h2 {
       box-sizing: border-box;
       min-height: 150px;
     }
-  
+
+    input::placeholder, textarea::placeholder {
+      opacity: 0.6;
+      color: #ffffff;
+    }
+
     .flat-button {
       color: #ffd700;
-      font-size: 11px;
+      font-size: 14px;
       letter-spacing: 3px;
       text-decoration: none;
       padding: 8px 10px;
@@ -80,6 +85,13 @@ h2 {
       float: right;
       text-align: center;
       margin-right: 10px;
+    }
+
+    .flat-button:hover {
+      background:  rgb(255, 162, 0);
+      color: #000;
+      transition: all 0.3s ease;
+      cursor: pointer;
     }
   }
 
