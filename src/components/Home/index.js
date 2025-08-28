@@ -50,12 +50,18 @@ const Home = () => {
                 </h1>
 
                 <h2>
-                Final Year Computer Science undergraduate at National University of Singapore (NUS).
-                <br />
-                Pursuing 2nd Major in Management at NUS Business School.
+                <b>Final Year Computer Science</b> undergraduate at National University of Singapore (NUS).
                 <br />
                 <br />
-                Actively Seeking for a rewarding 2025/2026 Internship!
+                Pursuing <b>2nd Major in Management</b> at NUS Business School.
+                <br />
+                <br />
+                
+                <a href="/fcyr-portfolio/contact" className="glow-card">
+                    Actively seeking a rewarding 2025/2026 Internship.
+                </a>
+
+
                 <br />
                 <br />
                 </h2>

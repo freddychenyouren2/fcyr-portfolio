@@ -68,6 +68,65 @@
         animation: fadeIn 2s 1.8s backwards;
     }
 
+    --gc-text: #eaf2ff;
+    --gc-border: #FFA200;
+    --gc-glow: #ff8c00;
+    --gc-radius: 14px;
+    --gc-pad-y: 10px;
+    --gc-pad-x: 24px;
+    --gc-duration: 4s;
+    --gc-border-width: 2px;
+
+    .glow-card {
+      display: inline-block;
+      padding: var(--gc-pad-y) var(--gc-pad-x);
+      border-radius: var(--gc-radius);
+      border: var(--gc-border-width) solid var(--gc-glow);
+      // font: 600 1rem/1.2 system-ui, sans-serif;
+      // letter-spacing: 0.3px;
+      text-align: center;
+      text-decoration: none;
+      transition: transform 0.2s ease;
+      cursor: pointer;
+
+      /* Animation */
+      animation: bg-swap var(--gc-duration) ease-in-out infinite,
+                border-glow var(--gc-duration) ease-in-out infinite;
+
+      /* subtle lift on hover */
+      &:hover {
+        transform: scale(1.04);
+      }
+    }
+
+    /* Background + text swap */
+    @keyframes bg-swap {
+      0%, 100% {
+        background-color: transparent;
+        color: white;
+      }
+      50% {
+        background-color: #ff8c00;
+        color: black;
+      }
+    }
+
+    /* Border glow breathing */
+    @keyframes border-glow {
+      0% {
+        box-shadow: 0 0 0 0 transparent,
+                    0 2px 10px 0 rgba(0, 0, 0, 0.25);
+      }
+      50% {
+        box-shadow: 0 0 20px 6px var(--gc-glow),
+                    0 6px 20px 0 rgba(0, 0, 0, 0.35);
+      }
+      100% {
+        box-shadow: 0 0 0 0 transparent,
+                    0 2px 10px 0 rgba(0, 0, 0, 0.25);
+      }
+    }
+
     .post-script {
       font-family: sans-serif;
       letter-spacing: 2px;
